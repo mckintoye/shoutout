@@ -1,0 +1,46 @@
+{
+  "" : {
+    "const-values" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary.swiftconstvalues",
+    "dependencies" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary.d",
+    "diagnostics" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary.dia",
+    "emit-module-dependencies" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary-emit-module.dia",
+    "pch" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-primary.swiftdeps"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/AuthSession.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSession.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSession.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSession.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/AuthSessionDelegate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSessionDelegate.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSessionDelegate.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSessionDelegate.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/AuthSessionStore.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSessionStore.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSessionStore.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/AuthSessionStore.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/GTMOAuth2Compatibility.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMOAuth2Compatibility.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMOAuth2Compatibility.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/GTMOAuth2Compatibility.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainAttribute.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainAttribute.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainAttribute.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainAttribute.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainHelper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainHelper.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainHelper.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainHelper.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainStore.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainStore.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainStore.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/GTMAppAuth.build/Objects-normal/arm64/KeychainStore.o"
+  }
+}

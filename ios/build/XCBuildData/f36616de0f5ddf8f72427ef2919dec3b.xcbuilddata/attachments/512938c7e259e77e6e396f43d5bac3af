@@ -1,0 +1,81 @@
+{
+  "" : {
+    "const-values" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary.swiftconstvalues",
+    "dependencies" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary.d",
+    "diagnostics" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary.dia",
+    "emit-module-dependencies" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary-emit-module.dia",
+    "pch" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-primary.swiftdeps"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/Utilities/AtomicBox.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/AtomicBox.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/AtomicBox.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/AtomicBox.o"
+  },
+  "/Users/jidejyde/shoutout_2.0/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/Utilities/FIRAllocatedUnfairLock.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FIRAllocatedUnfairLock.o",
+    "llvm-bc" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FIRAllocatedUnfairLock.bc",
+    "object" : "/Users/jidejyde/shoutout_2.0/ios/build/Pods.build/Release-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FIRAllocatedUnfairLock.o"
+  }
+}

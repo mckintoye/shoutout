@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "143685480306",
+    "project_id": "shoutout-83240",
+    "storage_bucket": "shoutout-83240.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143685480306:android:0d368718cdd58a0c0077eb",
+        "android_client_info": {
+          "package_name": "com.mckintoye.shoutout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143685480306-r2ier9vkda1gfq2ncsjojer927prlq0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzXyGjy4pVArAlmf0L-hnj4H8H-MkNMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143685480306-r2ier9vkda1gfq2ncsjojer927prlq0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143685480306-clfk6kb8pv0uiubosrh4v998e7plaj4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mckintoye.shoutout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
